@@ -1,3 +1,14 @@
+#A Smooth modern reactjs portfolio feel free to download it and used for your own purpose . 
+
+## Packages used : 
+1. react-icons 
+2. react-router-dom 
+3. react-smooth-scrollbar 
+4. react-transition-group 
+5. react-uuid 
+6. styled-components
+7. swiper
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

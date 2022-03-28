@@ -1,4 +1,4 @@
-#A Smooth modern reactjs portfolio feel free to download it and used for your own purpose . 
+# A smooth modern reactjs portfolio feel free to download it and used for your own purpose . 
 
 ## Packages used : 
 1. react-icons 
